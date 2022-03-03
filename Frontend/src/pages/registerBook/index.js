@@ -23,9 +23,7 @@ function RegisterBook() {
       imageurl: data.url
     })
 
-    // async function deleteRoute (id){
-    //   deletar = await api.delete(`/deletar/${id}`)
-    // }
+  
 
     // Pegando id do livro
     const books = await api.get('getBook')

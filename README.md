@@ -22,7 +22,7 @@ Projeto criado na matéria de Engenharia de software - Bloco V - Ciência da Com
    # 4° yarn && yarn dev
    # 5° cd ../Frontend
    # 6° yarn && yarn start
-   # 7° Abra seu navegador em:  localhost://3000
+   # 7° Abra seu navegador em: localhost://3000
    
    # 8° Divirta-se :) 
    ```

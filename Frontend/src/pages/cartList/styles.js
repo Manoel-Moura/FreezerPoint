@@ -96,9 +96,3 @@ export const ContentForm = styled.div`
   }
 `
 
-// export const Image = styled.div`
-//   background: url(${image}) no-repeat center;
-//   background-size: contain;
-//   width: 100vw;
-//   height: 100vh;
-// `

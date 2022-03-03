@@ -45,33 +45,7 @@ function CartList() {
   }, [])
 
   return (
-    // <>
-    //   <Logo>
-    //     <div className="container">
-    //       <Link to="/Home">
-    //         {' '}
-    //         <img className="exitButton" size="20px" src={left} alt="" />{' '}
-    //       </Link>
-    //       <img src={logo} alt="icon" />
-    //     </div>
-    //   </Logo>
-    //   <Container>
-    //     <ContentForm ref={reference}>
-    //       <h1 className="title"> Meu carrinho</h1>
-    //       {data.map(item => {
-    //         const { id_book, name } = item
-    //         return (
-    //           <div className="containerName">
-    //             <Link to={`/contactPage/${id_book}`}>
-    //               <p>{name}</p>
-    //             </Link>
-    //           </div>
-    //         )
-    //       })}
-    //     </ContentForm>
-    //     <Image></Image>
-    //   </Container>
-    // </>
+   
     <>
       <Logo>
         <div className="container">

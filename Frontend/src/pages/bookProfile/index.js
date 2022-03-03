@@ -15,9 +15,6 @@ function BookProfile() {
   // const history = useHistory()
   const { id } = useParams()
 
-  // console.log(history)
-  // console.log(id)
-
   useEffect(async () => {
     const response = await api.get(`/getABook/${id}`)
     setData(response.data)
